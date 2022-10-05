@@ -1,2 +1,5 @@
-# ai-image-recognition-telegrambot
-AI image recognition Telegram bot that uses Tensorflow. 
+# AI Image Recognition Telegram Bot
+An AI image recognition Telegram bot that uses Tensorflow. It acccepts an image and predicts that is shown on the image.
+
+### Example of usage 
+![Example of usage](./screenshot-example.png)
